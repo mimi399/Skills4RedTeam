@@ -10,13 +10,13 @@
 
 ## 社区技能推荐
 
-以下为社区开源的优秀安全技能，按 Star 数降序排列，数据更新于 2026-11-21。
+以下为社区开源的优秀安全技能，按 Star 数降序排列，数据更新于 2026-11-22。
 
 ### 攻防渗透
 
 | 技能 | Star | 更新时间 | 说明 | 仓库 |
 | --- | --- | --- | --- | --- |
-| `Claude-BugHunter` | ![GitHub Repo stars](https://img.shields.io/github/stars/elementalsouls/Claude-BugHunter?style=for-the-badge&label=%E2%AD%90) | 2026-11-21 | 红队 / 外部渗透漏洞挖掘技能包 —— 82 个 skill + 15 个 slash command + 681 份已披露报告模式（覆盖 24 类核心漏洞）+ 企业身份与基础设施攻击矩阵，聚焦 bug bounty 与红队行动方法论 | [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) |
+| `Claude-BugHunter` | ![GitHub Repo stars](https://img.shields.io/github/stars/elementalsouls/Claude-BugHunter?style=for-the-badge&label=%E2%AD%90) | 2026-11-22 | 红队 / 外部渗透漏洞挖掘技能包 —— 82 个 skill + 15 个 slash command + 681 份已披露报告模式（覆盖 24 类核心漏洞）+ 企业身份与基础设施攻击矩阵，聚焦 bug bounty 与红队行动方法论 | [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) |
 | `Claude-Red` | ![GitHub Repo stars](https://img.shields.io/github/stars/SnailSploit/Claude-Red?style=for-the-badge&label=%E2%AD%90) | 2026-11-17 | 37 个即插即用的攻击性安全技能 —— Web 攻击（SQLi/XSS/SSRF/SSTI/XXE）、Shellcode 编写、EDR 规避、漏洞利用开发、红队行动、OSINT、模糊测试等 | [SnailSploit/Claude-Red](https://github.com/SnailSploit/Claude-Red) |
 | `raptor` | ![GitHub Repo stars](https://img.shields.io/github/stars/gadievron/raptor?style=for-the-badge&label=%E2%AD%90) | 2026-11-21 | 将 Claude Code 转为通用攻防安全 agent，覆盖侦察 → 入侵 → 横向移动 → 后渗透全流程，自动编排攻击链（疑为 GitHub Trending 榜首的全自动 AI 渗透测试员） | [gadievron/raptor](https://github.com/gadievron/raptor) |
 | `ctf-skills` | ![GitHub Repo stars](https://img.shields.io/github/stars/ljagiello/ctf-skills?style=for-the-badge&label=%E2%AD%90) | 2026-11-15 | CTF 全类别解题技能 —— 覆盖 Web 漏洞利用、二进制 Pwn、密码学、逆向、取证、OSINT 等题型，按挑战类型自动匹配方法论 | [ljagiello/ctf-skills](https://github.com/ljagiello/ctf-skills) |
