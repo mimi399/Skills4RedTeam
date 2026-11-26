@@ -10,13 +10,13 @@
 
 ## 社区技能推荐
 
-以下为社区开源的优秀安全技能，按 Star 数降序排列，数据更新于 2026-11-25。
+以下为社区开源的优秀安全技能，按 Star 数降序排列，数据更新于 2026-11-26。
 
 ### 攻防渗透
 
 | 技能 | Star | 更新时间 | 说明 | 仓库 |
 | --- | --- | --- | --- | --- |
-| `Claude-BugHunter` | ![GitHub Repo stars](https://img.shields.io/github/stars/elementalsouls/Claude-BugHunter?style=for-the-badge&label=%E2%AD%90) | 2026-11-25 | 红队 / 外部渗透漏洞挖掘技能包 —— 82 个 skill + 15 个 slash command + 681 份已披露报告模式（覆盖 24 类核心漏洞）+ 企业身份与基础设施攻击矩阵，聚焦 bug bounty 与红队行动方法论 | [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) |
+| `Claude-BugHunter` | ![GitHub Repo stars](https://img.shields.io/github/stars/elementalsouls/Claude-BugHunter?style=for-the-badge&label=%E2%AD%90) | 2026-11-26 | 红队 / 外部渗透漏洞挖掘技能包 —— 82 个 skill + 15 个 slash command + 681 份已披露报告模式（覆盖 24 类核心漏洞）+ 企业身份与基础设施攻击矩阵，聚焦 bug bounty 与红队行动方法论 | [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) |
 | `Claude-Red` | ![GitHub Repo stars](https://img.shields.io/github/stars/SnailSploit/Claude-Red?style=for-the-badge&label=%E2%AD%90) | 2026-11-17 | 37 个即插即用的攻击性安全技能 —— Web 攻击（SQLi/XSS/SSRF/SSTI/XXE）、Shellcode 编写、EDR 规避、漏洞利用开发、红队行动、OSINT、模糊测试等 | [SnailSploit/Claude-Red](https://github.com/SnailSploit/Claude-Red) |
 | `raptor` | ![GitHub Repo stars](https://img.shields.io/github/stars/gadievron/raptor?style=for-the-badge&label=%E2%AD%90) | 2026-11-25 | 将 Claude Code 转为通用攻防安全 agent，覆盖侦察 → 入侵 → 横向移动 → 后渗透全流程，自动编排攻击链（疑为 GitHub Trending 榜首的全自动 AI 渗透测试员） | [gadievron/raptor](https://github.com/gadievron/raptor) |
 | `ctf-skills` | ![GitHub Repo stars](https://img.shields.io/github/stars/ljagiello/ctf-skills?style=for-the-badge&label=%E2%AD%90) | 2026-11-15 | CTF 全类别解题技能 —— 覆盖 Web 漏洞利用、二进制 Pwn、密码学、逆向、取证、OSINT 等题型，按挑战类型自动匹配方法论 | [ljagiello/ctf-skills](https://github.com/ljagiello/ctf-skills) |
@@ -68,7 +68,7 @@
 | 技能 | Star | 更新时间 | 说明 | 仓库 |
 | --- | --- | --- | --- | --- |
 | `security-audit` | ![GitHub Repo stars](https://img.shields.io/github/stars/cloudflare/security-audit-skill?style=for-the-badge&label=%E2%AD%90) | 2026-09-15 | Cloudflare 官方多阶段安全审计技能 —— 编排隔离子代理执行六阶段审计（侦察 → 覆盖率驱动狩猎 → 候选验证 → 结构化输出 → 独立记录复核 → 中立报告）；对抗式验证（验证者永非发现者），findings 按 confirmed / needs_validation / rejected 三级判定并经 JSON schema 校验；覆盖内存安全/二进制、AI/LLM 注入、Web 协议/认证、客户端、供应链、云与 IaC、RPC/消息、资源耗尽、数据隔离、桌面/移动 IPC 等 10+ 类攻击面；多次运行增量累积覆盖率，是 Cloudflare 全舰队漏洞挖掘 harness 的单仓库起点（[官方博客](https://blog.cloudflare.com/build-your-own-vulnerability-harness)） | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) |
-| `VibeSec-Skill` | ![GitHub Repo stars](https://img.shields.io/github/stars/BehiSecc/VibeSec-Skill?style=for-the-badge&label=%E2%AD%90) | 2026-02-17 | 安全优先代码审查 —— 以漏洞猎手视角审视代码，捕获 Web 应用常见漏洞（OWASP Top 10），防御性安全辅助 | [BehiSecc/VibeSec-Skill](https://github.com/BehiSecc/VibeSec-Skill) |
+| `VibeSec-Skill` | ![GitHub Repo stars](https://img.shields.io/github/stars/BehiSecc/VibeSec-Skill?style=for-the-badge&label=%E2%AD%90) | 2026-11-26 | 安全优先代码审查 —— 以漏洞猎手视角审视代码，捕获 Web 应用常见漏洞（OWASP Top 10），防御性安全辅助 | [BehiSecc/VibeSec-Skill](https://github.com/BehiSecc/VibeSec-Skill) |
 | `audit-skills` | ![GitHub Repo stars](https://img.shields.io/github/stars/RuoJi6/audit-skills?style=for-the-badge&label=%E2%AD%90) | 2026-06-16 | Java Web 源码安全审计 —— 路由提取、SQL 注入/XXE/文件上传/鉴权绕过多维度自动化审计；轻量化设计，只负责安全边界（原 `java-audit-skills`，已改名） | [RuoJi6/audit-skills](https://github.com/RuoJi6/audit-skills) |
 | `code-audit` | ![GitHub Repo stars](https://img.shields.io/github/stars/3stoneBrother/code-audit?style=for-the-badge&label=%E2%AD%90) | 2026-02-13 | 通用代码审计 —— 支持 55+ 漏洞类型，双轨审计模型（自动化 + 专家模式），覆盖 Java/Python/Go/PHP/JS/C 等多语言 | [3stoneBrother/code-audit](https://github.com/3stoneBrother/code-audit) |
 | `claude-code-owasp` | ![GitHub Repo stars](https://img.shields.io/github/stars/agamm/claude-code-owasp?style=for-the-badge&label=%E2%AD%90) | 2026-11-04 | OWASP 安全规范技能 —— Top 10:2025、ASVS 5.0、Agentic AI 安全与 20+ 语言特定安全实践，防御向代码审查参考 | [agamm/claude-code-owasp](https://github.com/agamm/claude-code-owasp) |
@@ -87,7 +87,7 @@
 
 | 技能 | Star | 更新时间 | 说明 | 仓库 |
 | --- | --- | --- | --- | --- |
-| `SkillSpector` | ![GitHub Repo stars](https://img.shields.io/github/stars/NVIDIA/SkillSpector?style=for-the-badge&label=%E2%AD%90) | 2026-11-24 | NVIDIA 出品的 Agent Skills 安全扫描器 —— 安装前检测 skills 中的提示注入、数据外传、恶意模式与供应链风险，支持 Claude Code / Codex / MCP skills | [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector) |
+| `SkillSpector` | ![GitHub Repo stars](https://img.shields.io/github/stars/NVIDIA/SkillSpector?style=for-the-badge&label=%E2%AD%90) | 2026-11-26 | NVIDIA 出品的 Agent Skills 安全扫描器 —— 安装前检测 skills 中的提示注入、数据外传、恶意模式与供应链风险，支持 Claude Code / Codex / MCP skills | [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector) |
 | `SecOpsAgentKit` | ![GitHub Repo stars](https://img.shields.io/github/stars/AgentSecOps/SecOpsAgentKit?style=for-the-badge&label=%E2%AD%90) | 2026-04-15 | 安全运营（SecOps）工具包 —— 25+ 技能覆盖漏洞捕获、容器扫描、密钥泄露检测与安全策略执行，防御向安全运营自动化 | [AgentSecOps/SecOpsAgentKit](https://github.com/AgentSecOps/SecOpsAgentKit) |
 | `repo-forensics` | ![GitHub Repo stars](https://img.shields.io/github/stars/alexgreensh/repo-forensics?style=for-the-badge&label=%E2%AD%90) | 2026-11-15 | 离线安全扫描器 —— 审计 AI agent 仓库、skills、插件与 MCP server 的安全风险 | [alexgreensh/repo-forensics](https://github.com/alexgreensh/repo-forensics) |
 | `skill-security-scan` | ![GitHub Repo stars](https://img.shields.io/github/stars/huifer/skill-security-scan?style=for-the-badge&label=%E2%AD%90) | 2025-12-29 | Claude Skills 安全扫描命令行工具 —— 安装第三方 skill 前检测恶意命令、投毒与安全风险，防供应链攻击，附带技能安全分析文档 | [huifer/skill-security-scan](https://github.com/huifer/skill-security-scan) |
@@ -97,8 +97,8 @@
 | 技能 | Star | 更新时间 | 说明 | 仓库 |
 | --- | --- | --- | --- | --- |
 | `Anthropic-Cybersecurity-Skills` | ![GitHub Repo stars](https://img.shields.io/github/stars/mukul975/Anthropic-Cybersecurity-Skills?style=for-the-badge&label=%E2%AD%90) | 2026-08-31 | 817 个结构化网络安全技能，映射 MITRE ATT&CK、NIST CSF 2.0、MITRE ATLAS、D3FEND、NIST AI RMF、MITRE F3 等 6 大框架，覆盖 29 个安全域、进攻 / 防御 / 合规全谱系，支持 Claude Code / Copilot / Codex / Cursor / Gemini CLI 等 20+ 平台，目前规模最大的 AI 安全技能库 | [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) |
-| `claude-skills` | ![GitHub Repo stars](https://img.shields.io/github/stars/alirezarezvani/claude-skills?style=for-the-badge&label=%E2%AD%90) | 2026-11-25 | 380+ 技能大型集合（30+ Agents、70+ 自定义命令），包含多个安全相关子技能：senior-security（威胁建模/渗透测试/OWASP）、ai-security（Prompt 注入检测/模型安全）、cloud-security（CSPM 云安全）、security-pen-testing 等，推荐作为技能库底座 | [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) |
-| `skills` | ![GitHub Repo stars](https://img.shields.io/github/stars/trailofbits/skills?style=for-the-badge&label=%E2%AD%90) | 2026-11-24 | Trail of Bits 出品，17+ 安全研究技能 —— 漏洞检测、差分代码审查、审计上下文构建、修复验证，专注安全研究、漏洞检测与审计工作流，质量较高 | [trailofbits/skills](https://github.com/trailofbits/skills) |
+| `claude-skills` | ![GitHub Repo stars](https://img.shields.io/github/stars/alirezarezvani/claude-skills?style=for-the-badge&label=%E2%AD%90) | 2026-11-26 | 380+ 技能大型集合（30+ Agents、70+ 自定义命令），包含多个安全相关子技能：senior-security（威胁建模/渗透测试/OWASP）、ai-security（Prompt 注入检测/模型安全）、cloud-security（CSPM 云安全）、security-pen-testing 等，推荐作为技能库底座 | [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) |
+| `skills` | ![GitHub Repo stars](https://img.shields.io/github/stars/trailofbits/skills?style=for-the-badge&label=%E2%AD%90) | 2026-11-26 | Trail of Bits 出品，17+ 安全研究技能 —— 漏洞检测、差分代码审查、审计上下文构建、修复验证，专注安全研究、漏洞检测与审计工作流，质量较高 | [trailofbits/skills](https://github.com/trailofbits/skills) |
 | `SecSkills` | ![GitHub Repo stars](https://img.shields.io/github/stars/DaoYiSec/SecSkills?style=for-the-badge&label=%E2%AD%90) | 2026-11-25 | 刀义安全出品，53 个安全技能索引，覆盖代码审计、渗透测试、JS 逆向、CTF、红蓝对抗、移动安全、应急响应等 16 个分类 | [DaoYiSec/SecSkills](https://github.com/DaoYiSec/SecSkills) |
 | `openclaw-sec-skills` | ![GitHub Repo stars](https://img.shields.io/github/stars/Batman0506/openclaw-sec-skills?style=for-the-badge&label=%E2%AD%90) | 2026-06-25 | OpenClaw 社区安全技能大全，150+ 技能索引，涵盖代码审计、渗透测试、逆向工程、CTF、威胁建模、移动安全、应急响应、安全工具 8 大领域 | [Batman0506/openclaw-sec-skills](https://github.com/Batman0506/openclaw-sec-skills) |
 | `security-skills` | ![GitHub Repo stars](https://img.shields.io/github/stars/eth0izzle/security-skills?style=for-the-badge&label=%E2%AD%90) | 2026-04-28 | 面向安全团队的 Claude Code 技能集合 —— 以插件市场形式分发，自动化安全运营相关操作 | [eth0izzle/security-skills](https://github.com/eth0izzle/security-skills) |
